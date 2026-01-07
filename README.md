@@ -1,4 +1,4 @@
-# Model Card: Chiptune Music Generator (v1.0)
+# Chiptune Music Generator (v1.0)
 
 ---
 
