@@ -31,6 +31,7 @@ Future revisions of this model will include a user-friendly interface and a more
 
 ## Training Data
 - **Dataset:** NESMDB (NES Music Database).
+  - NOTE: this dataset is not provided with this repository. Please refer to the source for more information.
 - **Source:** [NES-MDB](https://github.com/chrisdonahue/nesmdb/tree/master)
 - **Dataset size:** 5,278 songs
   - 296 unique composers
